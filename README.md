@@ -15,7 +15,7 @@ This code is made freely available to academic and non-academic entities for non
 
 ## Citation
 
-When using the dataset or code, please cite our [paper](https://arxiv.org/pdf/1912.08178.pdf): 
+When using the dataset or code, please cite our [paper](https://arxiv.org/abs/2006.09363): 
 ```
 @misc{smith2020building,
     title={Building One-Shot Semi-supervised (BOSS) Learning up to Fully Supervised Performance},
